@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tb6IK89skv3LGYurh9a7QxWE3JzmZYH0WgR7CUlv+i8rJvrZp5ItrctRs4y43kZQv+6reatsnqqLC8+muSoxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hiros\\Desktop\\FxEstudy\\FxStudyCases\\src\\FxStudy.Api\\FxStudy.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiros\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hiros\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hiros\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\hiros\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\hiros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\hiros\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
